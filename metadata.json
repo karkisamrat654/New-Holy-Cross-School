@@ -1,0 +1,7 @@
+{
+  "name": " New Holy Cross School",
+  "description": "Official portal for New Holy Cross School, Kathmandu, Nepal - fostering excellence in education and character building.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
